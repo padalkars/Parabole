@@ -1,0 +1,18 @@
+The problem is solved using K-Means clustering Algorithm.
+
+Helper Functions:-
+ 1.suitable_clusters(documents)
+For each file documents is a list comprising of words in the file.
+This method chooses the suitable number of clusters for clustering.s
+ 				
+Resources:- 
+https://www.coursera.org/learn/machine-learning/lecture/Ks0E9/choosing-the-number-of-clusters
+https://www.quora.com/How-can-we-choose-a-good-K-for-K-means-clustering
+
+ 2.km(documents,name)
+	For each file documents is a list comprising of words in the file.
+	The second argument name contains the name of the file.
+
+I have randomly chosen the value of K as 3.
+
+Using Hierarchical clustering
